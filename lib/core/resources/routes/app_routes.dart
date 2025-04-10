@@ -1,7 +1,7 @@
-import 'package:template/features/auth/screen/onbording_screen.dart';
-import 'package:template/features/auth/screen/splash_screen.dart';
-import 'package:template/features/auth/screen/walkthrough_screen.dart';
-import 'package:template/features/auth/screen/welcome_screen.dart';
+import 'package:template/features/auth/presentation/pages/onbording_screen.dart';
+import 'package:template/features/auth/presentation/pages/splash_screen.dart';
+import 'package:template/features/auth/presentation/pages/walkthrough_screen.dart';
+import 'package:template/features/auth/presentation/pages/welcome_screen.dart';
 import 'package:flutter/cupertino.dart';
 
 class AppRoutes {
